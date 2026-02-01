@@ -87,3 +87,8 @@ Place your files into the `assets/` folder with these exact filenames:
 ![Image](https://github.com/user-attachments/assets/8ee03242-3c84-400f-8d6d-2b376f49ab4f)
 
 
+changed
+name jaqliv to lukqaz
+profile views to 271000
+disabled profiles
+changed links
