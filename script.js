@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
   function initializeVisitorCounter() {
     let totalVisitors = localStorage.getItem('totalVisitorCount');
     if (!totalVisitors) {
-      totalVisitors = 921234;
+      totalVisitors = 271000;
       localStorage.setItem('totalVisitorCount', totalVisitors);
     } else {
       totalVisitors = parseInt(totalVisitors);
@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "JAQLIV";
+  const name = "lukqaz";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Fu*k Guns.lol & Fakecrime.bio got banned too often, so I created my own.",
+    "realest nigga out there",
     "\"Hello, World!\""
   ];
   let bioText = '';
